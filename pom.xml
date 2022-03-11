@@ -1,0 +1,18 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>com.github.kafka</groupId>
+	<artifactId>kafka-product</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<packaging>pom</packaging>
+	<name>kafkaForBeginners</name>
+	<!-- FIXME change it to the project's website -->
+	<url>http://www.example.com</url>
+	<modules>
+		<module>kafka-basics</module>
+		<module>twitter-producer</module>
+		<module>kafka-consumer-elasticsearch</module>
+		<module>kafka-stream</module>
+	</modules>
+</project>
