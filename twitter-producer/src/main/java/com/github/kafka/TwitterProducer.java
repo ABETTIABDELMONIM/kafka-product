@@ -31,10 +31,10 @@ public class TwitterProducer {
 
     
 
-    private static final  String  CONSUMER_KEY = "j2DgJiLbQZl1Q7fratXLmTY4R";
-    private static final String  CONSUMER_SECRET = "GwfJwKrn0elSBHL81kTVzHjcumgxwt6iWmOyxOByFt3NrdQiQU";
-    private static final  String TOKEN = "115528591-oNLixboJfQemP70pMiGttohAPxaXGcHR0VCpjwW6";
-    private static final  String SECRET = "ZdjRPSTxICVR4hwvvcRCX6d5FGVoUuAZKR4PCxh3P3kU1";
+    private static final  String  CONSUMER_KEY = "";
+    private static final String  CONSUMER_SECRET = "";
+    private static final  String TOKEN = "";
+    private static final  String SECRET = "";
     private static final  String TOPIC = "twitter_topic_V2";
 
     
